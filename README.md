@@ -12,7 +12,7 @@
         <li>And of course; the boilerplate</li>
     </ol>
     <li>Use git as a version control and push my proyect to GitHub</li>
-    <li>Have fun<li>
+    <li>Have fun</li>
 </ul>
 <h2>After thoughts:</h2>
 <p>I thought that this was going to be fast, but it was a lot more time than i thought, tho still i enjoyed every single moment, i really liked doing the project</p>
