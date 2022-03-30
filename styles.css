@@ -14,3 +14,8 @@ h2 {
 .bg-green {
     background-color: rgba(0, 128, 0, 0.336);
 }
+
+.images-size {
+    width: 200px;
+    height: auto;
+}
